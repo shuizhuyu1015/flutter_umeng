@@ -53,7 +53,7 @@
 
   [UMConfigure initWithAppkey:appKey channel:channel];
 
-  [MobClick setCrashReportEnabled:reportCrash];
+  // [MobClick setCrashReportEnabled:reportCrash];
 
   //[UMErrorCatch initErrorCatch];
   result(nil);
